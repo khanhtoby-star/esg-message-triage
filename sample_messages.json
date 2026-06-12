@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "message": "There is a water leak in Building C that has been running all morning."
+  },
+  {
+    "id": 2,
+    "message": "The recycling bins are contaminated again and no one seems to be checking them."
+  },
+  {
+    "id": 3,
+    "message": "The accessible entrance near the main building has been blocked for two days."
+  }
+]
