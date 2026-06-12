@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "message": "There is a water leak in Building C that has been running all morning.",
+    "output": {
+      "issue_category": "Facilities - Water Leak",
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Facilities Management",
+      "escalation_reason": "The message reports an active water leak that has continued for several hours, which may cause property damage or safety risk.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "A water leak has been reported in Building C and has been running all morning.",
+      "confidence_score": "0.96"
+    }
+  },
+  {
+    "id": 2,
+    "message": "The recycling bins are contaminated again and no one seems to be checking them.",
+    "output": {
+      "issue_category": "Waste and Recycling",
+      "urgency": "MEDIUM",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Sustainability Operations",
+      "escalation_reason": "The issue appears to be repeated and may affect recycling compliance and waste management performance.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "Recycling bins are repeatedly contaminated and may not be monitored properly.",
+      "confidence_score": "0.94"
+    }
+  },
+  {
+    "id": 3,
+    "message": "The accessible entrance near the main building has been blocked for two days.",
+    "output": {
+      "issue_category": "Accessibility and Facilities",
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Facilities Management and Accessibility Services",
+      "escalation_reason": "A blocked accessible entrance creates an inclusion and access barrier, especially because it has continued for two days.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "The accessible entrance near the main building has been blocked for two days.",
+      "confidence_score": "0.97"
+    }
+  }
+]
